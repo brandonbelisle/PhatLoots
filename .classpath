@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="lib/CitizensAPI.jar"/>
+	<classpathentry kind="lib" path="lib/MythicDrops.jar"/>
+	<classpathentry kind="lib" path="lib/MythicMobs.jar"/>
+	<classpathentry kind="lib" path="lib/RegionTools.jar"/>
+	<classpathentry kind="lib" path="lib/spigot-api.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/Spigot 1.12 API"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/Vault 1.12"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/Votifier 1.9"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/World Guard 6.2.1"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/WorldEdit"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
